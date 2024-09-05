@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Wes, a Software Engineer by passion.
+## Software Engineer by passion 🔭
 
 <!--
 **wesfdev/wesfdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
